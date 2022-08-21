@@ -1,3 +1,3 @@
 # MyProggres-
-front end 40 %
+front end 40 % - 
 back end 30 %
